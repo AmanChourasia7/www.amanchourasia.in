@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: normal;
+  font-weight: 1000;
+  src: url(https://raw.githubusercontent.com/DharmicDeveloper/www.amanchourasia.in/main/fonts/SF-Pro-Text-Black.woff2); 
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/DharmicDeveloper/www.amanchourasia.in/main/fonts/SF-Pro-Text-Regular.woff2); 
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: bold;
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/DharmicDeveloper/www.amanchourasia.in/main/fonts/SF-Pro-Text-Bold.woff2); 
+}
+
+
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://raw.githubusercontent.com/DharmicDeveloper/www.amanchourasia.in/main/fonts/SF-Pro-Text-Heavy.woff2); 
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/DharmicDeveloper/www.amanchourasia.in/main/fonts/SF-Pro-Text-RegularItalic.woff2); 
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://raw.githubusercontent.com/DharmicDeveloper/www.amanchourasia.in/main/fonts/SF-Pro-Text-Semibold.woff2); 
+}
+
+@font-face {
+  font-family: 'SF Pro Text';
+  font-style: italic;
+  font-weight: 600;
+  src: url(https://raw.githubusercontent.com/DharmicDeveloper/www.amanchourasia.in/main/fonts/SF-Pro-Text-SemiboldItalic.woff2); 
+}
