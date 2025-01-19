@@ -1,0 +1,2632 @@
+{
+	"root": {
+		"id": "wffcoluh",
+		"text": "Tech Stack",
+		"notes": "",
+		"layout": "map",
+		"children": [
+			{
+				"id": "rykibnfg",
+				"text": "Web Dev",
+				"notes": "",
+				"side": "right",
+				"children": [
+					{
+						"id": "atussbkj",
+						"text": "HTML",
+						"notes": ""
+					},
+					{
+						"id": "snagsiyn",
+						"text": "CSS",
+						"notes": "",
+						"children": [
+							{
+								"id": "kjvjzobw",
+								"text": "MaterialUI",
+								"notes": ""
+							},
+							{
+								"id": "ykxbarrc",
+								"text": "Bootstrap",
+								"notes": ""
+							},
+							{
+								"id": "diiisxdj",
+								"text": "Tailwind",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "yovupgyi",
+						"text": "JavaScript",
+						"notes": "",
+						"children": [
+							{
+								"id": "qocpmbdl",
+								"text": "Angular",
+								"notes": ""
+							},
+							{
+								"id": "felapbqm",
+								"text": "React",
+								"notes": ""
+							},
+							{
+								"id": "gqfrihgi",
+								"text": "Node",
+								"notes": ""
+							},
+							{
+								"id": "xhqedxvy",
+								"text": "Next",
+								"notes": ""
+							},
+							{
+								"id": "lpigidbz",
+								"text": "Express",
+								"notes": ""
+							},
+							{
+								"id": "xnamkiug",
+								"text": "Solid",
+								"notes": ""
+							},
+							{
+								"id": "igczgwad",
+								"text": "Preact",
+								"notes": ""
+							},
+							{
+								"id": "usmhbckl",
+								"text": "Vue",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "lrgbrihc",
+						"text": "Version Control",
+						"notes": "",
+						"children": [
+							{
+								"id": "lsesvrib",
+								"text": "Git&nbsp; +&nbsp; Github",
+								"notes": ""
+							},
+							{
+								"id": "mmsuitpq",
+								"text": "Branching",
+								"notes": ""
+							},
+							{
+								"id": "bfgrnovu",
+								"text": "Stash",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "buqjoblq",
+						"text": "Databases",
+						"notes": "",
+						"children": [
+							{
+								"id": "bniibycs",
+								"text": "Mongo",
+								"notes": ""
+							},
+							{
+								"id": "ottsbmyj",
+								"text": "MySQL",
+								"notes": ""
+							},
+							{
+								"id": "wardwtqz",
+								"text": "Redis",
+								"notes": ""
+							},
+							{
+								"id": "pnzkhndq",
+								"text": "Snowflake",
+								"notes": ""
+							},
+							{
+								"id": "vykfqilt",
+								"text": "Postgre",
+								"notes": ""
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "orjnfcdb",
+				"text": "Artificial Intelligence",
+				"notes": "",
+				"side": "left",
+				"children": [
+					{
+						"id": "qojzaqik",
+						"text": "Fundamentals",
+						"notes": "",
+						"children": [
+							{
+								"id": "iryvgegh",
+								"text": "Required Mahematical Knowledge",
+								"notes": ""
+							},
+							{
+								"id": "xalwvlim",
+								"text": "Basic Knowledge",
+								"notes": "",
+								"children": [
+									{
+										"id": "tttgmytz",
+										"text": "Data formats",
+										"notes": ""
+									},
+									{
+										"id": "lcczyghv",
+										"text": "RegEX",
+										"notes": ""
+									},
+									{
+										"id": "wovwnpxk",
+										"text": "JSON, XML, CSV",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "ilzaztsc",
+								"text": "Python Programming",
+								"notes": "",
+								"children": [
+									{
+										"id": "zsnvwdms",
+										"text": "Numpy",
+										"notes": ""
+									},
+									{
+										"id": "hdvckoau",
+										"text": "Pandas",
+										"notes": ""
+									},
+									{
+										"id": "qednllwz",
+										"text": "Basics",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "tnfbtllp",
+								"text": "Data Basics",
+								"notes": "",
+								"children": [
+									{
+										"id": "pyjthcsw",
+										"text": "Mining",
+										"notes": ""
+									},
+									{
+										"id": "qilpvqau",
+										"text": "Web Scraping",
+										"notes": ""
+									},
+									{
+										"id": "sbiuqbjw",
+										"text": "Data Assets",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "luyausvn",
+								"text": "Data Advanced",
+								"notes": "",
+								"children": [
+									{
+										"id": "zzwknnpd",
+										"text": "Principal component analysis",
+										"notes": ""
+									},
+									{
+										"id": "xerkuhsm",
+										"text": "Dimentional &amp; Numerosity Reduction",
+										"notes": ""
+									},
+									{
+										"id": "agnvrrhw",
+										"text": "Normalization",
+										"notes": ""
+									},
+									{
+										"id": "aycsnuor",
+										"text": "Data Scrubbing, Hadling Missing Values",
+										"notes": ""
+									},
+									{
+										"id": "eyajurol",
+										"text": "Unbiased estimators",
+										"notes": ""
+									},
+									{
+										"id": "obyjyszc",
+										"text": "Binning sparse values",
+										"notes": ""
+									},
+									{
+										"id": "zljrlfch",
+										"text": "Feature Extraction",
+										"notes": ""
+									},
+									{
+										"id": "bxpodujo",
+										"text": "Denoising",
+										"notes": ""
+									},
+									{
+										"id": "wjnswudd",
+										"text": "Sampling",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "tddstknt",
+						"text": "Data Scientist",
+						"notes": "",
+						"children": [
+							{
+								"id": "jtaseorx",
+								"text": "Statistics",
+								"notes": "",
+								"children": [
+									{
+										"id": "typtbjjg",
+										"text": "Probability Theory",
+										"notes": "",
+										"children": [
+											{
+												"id": "dkqlogqq",
+												"text": "Randomness, random variable, random sample",
+												"notes": ""
+											},
+											{
+												"id": "qqmjuhtn",
+												"text": "Probability Distribution",
+												"notes": ""
+											},
+											{
+												"id": "buxrciuz",
+												"text": "Conditional Probability and Bayes Theorem",
+												"notes": ""
+											},
+											{
+												"id": "xagoiwiu",
+												"text": "Stastical independence",
+												"notes": ""
+											},
+											{
+												"id": "oxinnxcn",
+												"text": "iid",
+												"notes": ""
+											},
+											{
+												"id": "mggsvbnb",
+												"text": "Functions",
+												"notes": "",
+												"children": [
+													{
+														"id": "grbuwqpe",
+														"text": "cumulative distrubution",
+														"notes": ""
+													},
+													{
+														"id": "ojlfcsmg",
+														"text": "probability desity",
+														"notes": ""
+													},
+													{
+														"id": "tvzrkryw",
+														"text": "probability mass",
+														"notes": ""
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "swhqpxhl",
+										"text": "Distributions",
+										"notes": "",
+										"children": [
+											{
+												"id": "nfzsskfr",
+												"text": "Continuous",
+												"notes": "",
+												"children": [
+													{
+														"id": "derccnld",
+														"text": "Normal / Gaussian",
+														"notes": ""
+													},
+													{
+														"id": "ukktityk",
+														"text": "Uniform continous",
+														"notes": ""
+													},
+													{
+														"id": "wnkjogkz",
+														"text": "Beta",
+														"notes": ""
+													},
+													{
+														"id": "zyclpjbx",
+														"text": "Dirichlet",
+														"notes": ""
+													},
+													{
+														"id": "zeuewidn",
+														"text": "Exponential",
+														"notes": ""
+													},
+													{
+														"id": "xmstayph",
+														"text": "chi-squared",
+														"notes": ""
+													}
+												]
+											},
+											{
+												"id": "beoxyzte",
+												"text": "Discrete",
+												"notes": "",
+												"children": [
+													{
+														"id": "rfaemzlp",
+														"text": "Uniform discrete",
+														"notes": ""
+													},
+													{
+														"id": "iwnnwsdt",
+														"text": "Binomial and multinomial",
+														"notes": ""
+													},
+													{
+														"id": "sqqplwuq",
+														"text": "Hypergeometric",
+														"notes": ""
+													},
+													{
+														"id": "ukgxevex",
+														"text": "Poisson",
+														"notes": ""
+													},
+													{
+														"id": "lskeepqw",
+														"text": "Geometric",
+														"notes": ""
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "gvkxwtig",
+										"text": "Extras",
+										"notes": "",
+										"children": [
+											{
+												"id": "emjeewhi",
+												"text": "Expectation and mean",
+												"notes": ""
+											},
+											{
+												"id": "nnswheih",
+												"text": "Variance and standard deviation",
+												"notes": ""
+											},
+											{
+												"id": "igrgawsf",
+												"text": "Covariance and Correlation",
+												"notes": ""
+											},
+											{
+												"id": "hsamcukm",
+												"text": "Median and Quartile",
+												"notes": ""
+											},
+											{
+												"id": "dvivtylc",
+												"text": "Interquartile range",
+												"notes": ""
+											},
+											{
+												"id": "kbgxadel",
+												"text": "Percentile / Quantile",
+												"notes": ""
+											},
+											{
+												"id": "pejnrmku",
+												"text": "Mode",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "cjfsetuc",
+										"text": "Laws and Estimation",
+										"notes": "",
+										"children": [
+											{
+												"id": "gulocbvk",
+												"text": "Law of Large Numbers",
+												"notes": ""
+											},
+											{
+												"id": "egeshtos",
+												"text": "Central Limit Theorem",
+												"notes": ""
+											},
+											{
+												"id": "xgijzuhr",
+												"text": "Maximum Likelyhood Estimation",
+												"notes": ""
+											},
+											{
+												"id": "jexszdkd",
+												"text": "Kernel Density Estimation",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "luwmojav",
+										"text": "Hypothesis testing",
+										"notes": "",
+										"children": [
+											{
+												"id": "cibjjhlf",
+												"text": "p-value",
+												"notes": ""
+											},
+											{
+												"id": "ynlqjrgl",
+												"text": "chi square test",
+												"notes": ""
+											},
+											{
+												"id": "zfhfqitn",
+												"text": "f test",
+												"notes": ""
+											},
+											{
+												"id": "jlrudssh",
+												"text": "t test",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "rgbbobhw",
+										"text": "Monte Carlo Method",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "xschfedk",
+								"text": "Visualization",
+								"notes": "",
+								"children": [
+									{
+										"id": "cesnmflv",
+										"text": "Python",
+										"notes": "",
+										"children": [
+											{
+												"id": "zncyacgo",
+												"text": "Matplotib",
+												"notes": ""
+											},
+											{
+												"id": "upkoxhdw",
+												"text": "Bokeh",
+												"notes": ""
+											},
+											{
+												"id": "twowally",
+												"text": "Seaborn",
+												"notes": ""
+											},
+											{
+												"id": "mzdwgqaf",
+												"text": "ipyvolume",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "pqzszkie",
+										"text": "Streamlit",
+										"notes": ""
+									},
+									{
+										"id": "ysmtvgmr",
+										"text": "Web",
+										"notes": "",
+										"children": [
+											{
+												"id": "syafzzat",
+												"text": "Vega-lite",
+												"notes": ""
+											},
+											{
+												"id": "lyuwhvuh",
+												"text": "D3.js",
+												"notes": ""
+											},
+											{
+												"id": "dikbveee",
+												"text": "Dash",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "yrpcrpnx",
+										"text": "BI",
+										"notes": "",
+										"children": [
+											{
+												"id": "tbyyfhez",
+												"text": "Tableau",
+												"notes": ""
+											},
+											{
+												"id": "bfhtsruj",
+												"text": "PowerBI",
+												"notes": ""
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "vmaqxyef",
+						"text": "Machine Learning",
+						"notes": "",
+						"children": [
+							{
+								"id": "cfmashli",
+								"text": "General",
+								"notes": "",
+								"children": [
+									{
+										"id": "oflmudqe",
+										"text": "Concepts, Inputs, Attributes",
+										"notes": "",
+										"children": [
+											{
+												"id": "fsuoswuh",
+												"text": "Variables",
+												"notes": "",
+												"children": [
+													{
+														"id": "lqcfoftq",
+														"text": "Categorical",
+														"notes": ""
+													},
+													{
+														"id": "xfjekwtk",
+														"text": "Ordinal",
+														"notes": ""
+													},
+													{
+														"id": "lwedhiec",
+														"text": "Numerical",
+														"notes": ""
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "tfoevaxi",
+										"text": "Cost functions and gradient descent",
+										"notes": ""
+									},
+									{
+										"id": "rrjmvpmm",
+										"text": "overfitting and underfitting",
+										"notes": ""
+									},
+									{
+										"id": "fhktmpxc",
+										"text": "training and validation and test data",
+										"notes": ""
+									},
+									{
+										"id": "fqqnmsqu",
+										"text": "precision vs recall",
+										"notes": ""
+									},
+									{
+										"id": "lflegyzo",
+										"text": "bias and variance",
+										"notes": ""
+									},
+									{
+										"id": "jhroozhw",
+										"text": "Lift",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "ceuuzlgn",
+								"text": "Methods",
+								"notes": "",
+								"children": [
+									{
+										"id": "zgyadili",
+										"text": "Supervised",
+										"notes": ""
+									},
+									{
+										"id": "yxqbicuj",
+										"text": "Unsupervised",
+										"notes": ""
+									},
+									{
+										"id": "jjytpvji",
+										"text": "Ensemble",
+										"notes": ""
+									},
+									{
+										"id": "cowvahqv",
+										"text": "Reinforcement",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "eftvfjuc",
+								"text": "Use cases",
+								"notes": "",
+								"children": [
+									{
+										"id": "yieimlla",
+										"text": "Sentiment Analysis",
+										"notes": ""
+									},
+									{
+										"id": "rxofjaya",
+										"text": "Collaborative&nbsp; Filtetering",
+										"notes": ""
+									},
+									{
+										"id": "iiignddy",
+										"text": "Tagging",
+										"notes": ""
+									},
+									{
+										"id": "tamdvkpb",
+										"text": "Prediction",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "tfpkuaep",
+								"text": "Important Libraries",
+								"notes": "",
+								"children": [
+									{
+										"id": "vlgdnmge",
+										"text": "Scikit-learn",
+										"notes": ""
+									},
+									{
+										"id": "kgubrvfy",
+										"text": "spacy (nlp)",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "osqjyfzd",
+						"text": "Neural Networks",
+						"notes": "",
+						"children": [
+							{
+								"id": "ptllgxri",
+								"text": "Papers",
+								"notes": "",
+								"children": [
+									{
+										"id": "qnpsloic",
+										"text": "Deep Learning Papers Reading Roadmap (website)",
+										"notes": ""
+									},
+									{
+										"id": "amuuilkw",
+										"text": "Papers with code (website)",
+										"notes": ""
+									},
+									{
+										"id": "ycfmciam",
+										"text": "Papers with code - state of art (website)",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "dyqjxcbm",
+								"text": "Neural Networks",
+								"notes": "",
+								"children": [
+									{
+										"id": "auxemytw",
+										"text": "Understanding",
+										"notes": ""
+									},
+									{
+										"id": "yprvntbp",
+										"text": "Functions",
+										"notes": "",
+										"children": [
+											{
+												"id": "meyxhhli",
+												"text": "Loss functions",
+												"notes": ""
+											},
+											{
+												"id": "dsmtxmug",
+												"text": "Activation functions",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "kqwuxvnr",
+										"text": "Weight initialization",
+										"notes": ""
+									},
+									{
+										"id": "nohyujis",
+										"text": "Vanishing / Exploding Gradient Problem",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "fhycmmae",
+								"text": "Architectures",
+								"notes": "",
+								"children": [
+									{
+										"id": "tkdgqejd",
+										"text": "Feedward neural networks",
+										"notes": ""
+									},
+									{
+										"id": "dnmlyecm",
+										"text": "Autoencoder",
+										"notes": ""
+									},
+									{
+										"id": "aikfnyla",
+										"text": "Convolusional neural network (cnn)",
+										"notes": "",
+										"children": [
+											{
+												"id": "lvschkej",
+												"text": "Pooling",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "hmcwlupc",
+										"text": "Recurrent neural network (rnn)",
+										"notes": "",
+										"children": [
+											{
+												"id": "kwmvkvps",
+												"text": "LSTM",
+												"notes": ""
+											},
+											{
+												"id": "hswwclgr",
+												"text": "GRU",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "zgndrnvx",
+										"text": "Transformer",
+										"notes": "",
+										"children": [
+											{
+												"id": "uxfqpbqu",
+												"text": "Encoder",
+												"notes": ""
+											},
+											{
+												"id": "ahnkzjro",
+												"text": "Decoder",
+												"notes": ""
+											},
+											{
+												"id": "zdfarpen",
+												"text": "Attention",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "jjlflqjq",
+										"text": "Siamese network",
+										"notes": ""
+									},
+									{
+										"id": "rkakjvqu",
+										"text": "Generative adversial network (gan)",
+										"notes": ""
+									},
+									{
+										"id": "xikvhzoj",
+										"text": "Evolving architectures / NEAT",
+										"notes": ""
+									},
+									{
+										"id": "zweospid",
+										"text": "Residual connections",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "nxfxapao",
+								"text": "Training",
+								"notes": "",
+								"children": [
+									{
+										"id": "quzmqouk",
+										"text": "Optimizers",
+										"notes": ""
+									},
+									{
+										"id": "rmvwnysj",
+										"text": "Learning rate schedule",
+										"notes": ""
+									},
+									{
+										"id": "omchrzoc",
+										"text": "batch normalization",
+										"notes": ""
+									},
+									{
+										"id": "svxkaobs",
+										"text": "batch side effects",
+										"notes": ""
+									},
+									{
+										"id": "pfhgxwsn",
+										"text": "regularization",
+										"notes": "",
+										"children": [
+											{
+												"id": "sxblszua",
+												"text": "Early stopping",
+												"notes": ""
+											},
+											{
+												"id": "dppxlyog",
+												"text": "dropout",
+												"notes": ""
+											},
+											{
+												"id": "gcpypbek",
+												"text": "parameter penalties",
+												"notes": ""
+											},
+											{
+												"id": "ogajrvew",
+												"text": "data argumentation",
+												"notes": ""
+											},
+											{
+												"id": "oglansjk",
+												"text": "adversarial training",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "cjxuvkrs",
+										"text": "multitask learning",
+										"notes": ""
+									},
+									{
+										"id": "qoblxbxv",
+										"text": "transfer learnring",
+										"notes": ""
+									},
+									{
+										"id": "mchipydr",
+										"text": "cirriculum learning",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "tdcdyeta",
+								"text": "Tools",
+								"notes": "",
+								"children": [
+									{
+										"id": "mqlbhyhu",
+										"text": "Important Libraries",
+										"notes": "",
+										"children": [
+											{
+												"id": "gnqbovcr",
+												"text": "Awesome Deep Learning",
+												"notes": ""
+											},
+											{
+												"id": "csgcsrvu",
+												"text": "Hugging Face Transformers",
+												"notes": ""
+											}
+										]
+									},
+									{
+										"id": "lgjzjlku",
+										"text": "Tensorflow",
+										"notes": ""
+									},
+									{
+										"id": "mcusdvvx",
+										"text": "Pytorch",
+										"notes": ""
+									},
+									{
+										"id": "trmqgryo",
+										"text": "Tensorboard",
+										"notes": ""
+									},
+									{
+										"id": "wymgujvh",
+										"text": "ML Flow",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "ozyauzeh",
+								"text": "Model Optimization",
+								"notes": "",
+								"children": [
+									{
+										"id": "dkvaizxm",
+										"text": "Distillation",
+										"notes": ""
+									},
+									{
+										"id": "wkzfdccx",
+										"text": "Quantization",
+										"notes": ""
+									},
+									{
+										"id": "ddjcsbos",
+										"text": "Neural architecture search",
+										"notes": ""
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "yqtjekzm",
+				"text": "CyberSecurity",
+				"notes": "",
+				"side": "right",
+				"children": [
+					{
+						"id": "ituvwdhv",
+						"text": "Computer Fundamentals",
+						"notes": "",
+						"children": [
+							{
+								"id": "qayzmqhu",
+								"text": "Comptia A+",
+								"notes": ""
+							},
+							{
+								"id": "moogwpiu",
+								"text": "Practical Experience",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "tgxkuggb",
+						"text": "Operating Systems",
+						"notes": "",
+						"children": [
+							{
+								"id": "vqqrobcz",
+								"text": "Windows",
+								"notes": "",
+								"children": [
+									{
+										"id": "ekxjfuld",
+										"text": "Windows&nbsp; XP, 7, 8, 8.1, 11",
+										"notes": ""
+									},
+									{
+										"id": "ewqlttlz",
+										"text": "Windows 10 Gangster Edition",
+										"notes": ""
+									},
+									{
+										"id": "pgxpdmyy",
+										"text": "Tiny11",
+										"notes": ""
+									},
+									{
+										"id": "qexmoqzr",
+										"text": "Windows Internals (pulstrait)",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "civlzevv",
+								"text": "Unix Solaris",
+								"notes": ""
+							},
+							{
+								"id": "kuybcwkp",
+								"text": "Linux",
+								"notes": "",
+								"children": [
+									{
+										"id": "wexboyvs",
+										"text": "All Basic Commands",
+										"notes": ""
+									},
+									{
+										"id": "zaqsxbpg",
+										"text": "Setting up a Linux&nbsp; Web Server",
+										"notes": ""
+									},
+									{
+										"id": "esicjdrr",
+										"text": "Distros like, ParrotOS, Ubuntu, Mint, FreeBSD, Debian, Kali",
+										"notes": ""
+									},
+									{
+										"id": "ukjqnifd",
+										"text": "CompTIALinux+ (only course)",
+										"notes": ""
+									},
+									{
+										"id": "uswjepxz",
+										"text": "Linux101",
+										"notes": ""
+									},
+									{
+										"id": "mibtouzl",
+										"text": "Rootkit Linux",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "bfhlscct",
+								"text": "MacOS (no experience only theory)",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "yurhgazr",
+						"text": "Common Terms",
+						"notes": ""
+					},
+					{
+						"id": "nkxoaijc",
+						"text": "Computer Networking",
+						"notes": "",
+						"children": [
+							{
+								"id": "icrmliiy",
+								"text": "Network+ (only course)",
+								"notes": ""
+							},
+							{
+								"id": "yewclwsc",
+								"text": "Practical Experience",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "rfbfyass",
+						"text": "Virtual Machines",
+						"notes": "",
+						"children": [
+							{
+								"id": "nahtgexq",
+								"text": "All Operating Systems mentioned above was installed&nbsp; on this",
+								"notes": ""
+							},
+							{
+								"id": "cxwhosez",
+								"text": "VMware, VirtualBox",
+								"notes": ""
+							},
+							{
+								"id": "idffchxg",
+								"text": "Setting up lab environment",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "ucxfhqzr",
+						"text": "Network Hacking",
+						"notes": "",
+						"children": [
+							{
+								"id": "ldtwpwly",
+								"text": "Nmap",
+								"notes": ""
+							},
+							{
+								"id": "emkitpwk",
+								"text": "Metasploit",
+								"notes": ""
+							},
+							{
+								"id": "ibifttet",
+								"text": "ReverseShell",
+								"notes": ""
+							},
+							{
+								"id": "wowpbqwf",
+								"text": "Nessus",
+								"notes": ""
+							},
+							{
+								"id": "uubukaku",
+								"text": "Privilege Escalation",
+								"notes": ""
+							},
+							{
+								"id": "seztuiqr",
+								"text": "Wireshark",
+								"notes": ""
+							},
+							{
+								"id": "kfikmxyi",
+								"text": "Man in Middle",
+								"notes": ""
+							},
+							{
+								"id": "ynngqspd",
+								"text": "Dark Hat Courses (I am Ethical Hacker, I will never do illegal things)",
+								"notes": ""
+							},
+							{
+								"id": "xswojwmd",
+								"text": "DDOS",
+								"notes": ""
+							},
+							{
+								"id": "ybwskscn",
+								"text": "Hacked my own phone, through wifi (This is legal)",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "ctkmhbtm",
+						"text": "Web App Security",
+						"notes": "",
+						"children": [
+							{
+								"id": "yurimskc",
+								"text": "HTTP Methods",
+								"notes": ""
+							},
+							{
+								"id": "kzndvvvb",
+								"text": "Response status codes",
+								"notes": ""
+							},
+							{
+								"id": "fjkhhsip",
+								"text": "SSL",
+								"notes": ""
+							},
+							{
+								"id": "ehulofrs",
+								"text": "CDNs",
+								"notes": ""
+							},
+							{
+								"id": "bfwkdimb",
+								"text": "<span style=\"font-size: 8px;\">&nbsp;Transmission Control ProtocoL</span>",
+								"notes": ""
+							},
+							{
+								"id": "zqqyabcx",
+								"text": "Injections",
+								"notes": "",
+								"children": [
+									{
+										"id": "lfbzgjjk",
+										"text": "SQL",
+										"notes": ""
+									},
+									{
+										"id": "lajenzil",
+										"text": "HTML",
+										"notes": ""
+									},
+									{
+										"id": "udwxlbpf",
+										"text": "XSS",
+										"notes": ""
+									},
+									{
+										"id": "jreqzisu",
+										"text": "Host Header",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "byjxtejh",
+								"text": "EC Council WAHS (course only)",
+								"notes": ""
+							},
+							{
+								"id": "jvuivwuh",
+								"text": "ISC2 CSSLP (only course)",
+								"notes": ""
+							},
+							{
+								"id": "mqandofe",
+								"text": "Did some practical on my lap environment (totally legal)",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "fbfsmbnk",
+						"text": "Cloud Security",
+						"notes": "",
+						"children": [
+							{
+								"id": "vrrfqdmh",
+								"text": "Azure DevOps (incomplete learning, as i don't like this due to lack of practical knowledge)",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "tjulvsim",
+						"text": "Courses&nbsp;",
+						"notes": "",
+						"children": [
+							{
+								"id": "zpufypiy",
+								"text": "Sans Institute",
+								"notes": "",
+								"children": [
+									{
+										"id": "oujmtsgf",
+										"text": "SEC450 (only course)",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "zzyguiib",
+								"text": "IBM Cybersecurity Fundamentals (got a certificate)",
+								"notes": ""
+							},
+							{
+								"id": "uxpfphfx",
+								"text": "Blue Team Level 2 (only course)",
+								"notes": ""
+							},
+							{
+								"id": "ezkykmyh",
+								"text": "Blue Team Level 1 (only course)",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "rbkjnmho",
+						"text": "Explored and Experimented with some black hat tools (never harmed someone, or did something illegal)",
+						"notes": ""
+					}
+				]
+			},
+			{
+				"id": "vyivtcnz",
+				"text": "Programming<br>C, C#, C++, Python, Java, Rust, Golang,&nbsp; Kotlin, Flutter, Swift, MATLAB",
+				"notes": "",
+				"side": "left",
+				"children": [
+					{
+						"id": "elhescdg",
+						"text": "Basics&nbsp;",
+						"notes": "",
+						"children": [
+							{
+								"id": "lgbgebdm",
+								"text": "Pseudo code",
+								"notes": ""
+							},
+							{
+								"id": "noyveogk",
+								"text": "Basic Syntax",
+								"notes": ""
+							},
+							{
+								"id": "oxwssvhs",
+								"text": "Control Structures",
+								"notes": ""
+							},
+							{
+								"id": "hzedvpyo",
+								"text": "Functions",
+								"notes": ""
+							},
+							{
+								"id": "sfylxgvw",
+								"text": "OOPs",
+								"notes": ""
+							},
+							{
+								"id": "fmfiurua",
+								"text": "Exception Handling",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "sblnxykf",
+						"text": "Data Structures",
+						"notes": "",
+						"children": [
+							{
+								"id": "dsnzvkkm",
+								"text": "Basics",
+								"notes": "",
+								"children": [
+									{
+										"id": "woiwxrxb",
+										"text": "what",
+										"notes": ""
+									},
+									{
+										"id": "pnlnbtaq",
+										"text": "importance",
+										"notes": ""
+									},
+									{
+										"id": "nomzqhhu",
+										"text": "self-referential",
+										"notes": ""
+									},
+									{
+										"id": "jbmnnarl",
+										"text": "recursive",
+										"notes": ""
+									},
+									{
+										"id": "pocjmtdd",
+										"text": "double pointers",
+										"notes": ""
+									},
+									{
+										"id": "cqcdxfzs",
+										"text": "dynamic memory management",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "wnwswqno",
+								"text": "Arrays",
+								"notes": ""
+							},
+							{
+								"id": "kwkpnkgd",
+								"text": "Stacks",
+								"notes": ""
+							},
+							{
+								"id": "kaqxawnk",
+								"text": "Queues",
+								"notes": ""
+							},
+							{
+								"id": "xsysqwir",
+								"text": "Linked Lists",
+								"notes": ""
+							},
+							{
+								"id": "fiyowdtj",
+								"text": "Hash Tables",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "pemamjgz",
+						"text": "Problem Solving Techniques",
+						"notes": "",
+						"children": [
+							{
+								"id": "vytawnla",
+								"text": "Brute Force",
+								"notes": ""
+							},
+							{
+								"id": "dxlebvdl",
+								"text": "Two pointer technique",
+								"notes": ""
+							},
+							{
+								"id": "rdyevkvb",
+								"text": "Divide and connquer",
+								"notes": ""
+							},
+							{
+								"id": "qfmmvngg",
+								"text": "Recursion",
+								"notes": ""
+							},
+							{
+								"id": "ngfpcjkg",
+								"text": "Greedy algorithms",
+								"notes": ""
+							},
+							{
+								"id": "juueybxo",
+								"text": "Backtracking",
+								"notes": ""
+							},
+							{
+								"id": "alnyvdmu",
+								"text": "Dynamic&nbsp; programming",
+								"notes": ""
+							},
+							{
+								"id": "llttmbbv",
+								"text": "Randomized algorithms",
+								"notes": ""
+							},
+							{
+								"id": "yuysovgm",
+								"text": "Sliding window technique",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "trashhcv",
+						"text": "Algorithmic Complexity",
+						"notes": "",
+						"children": [
+							{
+								"id": "xuobjbsd",
+								"text": "Time vs Space",
+								"notes": ""
+							},
+							{
+								"id": "zrgpzmbi",
+								"text": "How to calculate it?",
+								"notes": ""
+							},
+							{
+								"id": "aqsruxvx",
+								"text": "Common Runtimes",
+								"notes": "",
+								"children": [
+									{
+										"id": "whtaeyin",
+										"text": "Constant",
+										"notes": ""
+									},
+									{
+										"id": "dummlavx",
+										"text": "Logarithmic",
+										"notes": ""
+									},
+									{
+										"id": "ybvmwwob",
+										"text": "Linear",
+										"notes": ""
+									},
+									{
+										"id": "rozwjndv",
+										"text": "Polynomial",
+										"notes": ""
+									},
+									{
+										"id": "hgoprvpy",
+										"text": "Exponential",
+										"notes": ""
+									},
+									{
+										"id": "qdgfdrrw",
+										"text": "Factorial",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "svcsovcz",
+								"text": "Asymptotic Notation",
+								"notes": "",
+								"children": [
+									{
+										"id": "rubnchjx",
+										"text": "Big-O",
+										"notes": ""
+									},
+									{
+										"id": "ljabytwj",
+										"text": "Omega",
+										"notes": ""
+									},
+									{
+										"id": "fbauysgv",
+										"text": "Theta",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "hxciqxjt",
+								"text": "Sorting Algorithms",
+								"notes": "",
+								"children": [
+									{
+										"id": "sbqteiiz",
+										"text": "Bubble&nbsp;",
+										"notes": ""
+									},
+									{
+										"id": "fszlsvdo",
+										"text": "Merge",
+										"notes": ""
+									},
+									{
+										"id": "gokyxwuu",
+										"text": "Isertion",
+										"notes": ""
+									},
+									{
+										"id": "dvxppzut",
+										"text": "Quick&nbsp;",
+										"notes": ""
+									},
+									{
+										"id": "nlcgzkcg",
+										"text": "Selection",
+										"notes": ""
+									},
+									{
+										"id": "upnwncly",
+										"text": "Heap",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "zpjnydeu",
+								"text": "Searching Algorithms",
+								"notes": "",
+								"children": [
+									{
+										"id": "agsmxmwg",
+										"text": "Linear",
+										"notes": ""
+									},
+									{
+										"id": "btfarzik",
+										"text": "Binary",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "fzskavre",
+						"text": "Tree Data Structures",
+						"notes": "",
+						"children": [
+							{
+								"id": "sflbwnyh",
+								"text": "Binary",
+								"notes": ""
+							},
+							{
+								"id": "uvwiovbv",
+								"text": "Binary search",
+								"notes": ""
+							},
+							{
+								"id": "vjxxmaxb",
+								"text": "AVL",
+								"notes": ""
+							},
+							{
+								"id": "vppvjsrk",
+								"text": "B",
+								"notes": ""
+							},
+							{
+								"id": "klnoqjkj",
+								"text": "Tree traversals",
+								"notes": ""
+							},
+							{
+								"id": "tavglrzf",
+								"text": "Searching Algorithms",
+								"notes": "",
+								"children": [
+									{
+										"id": "llulyhjf",
+										"text": "Breadth First Search",
+										"notes": ""
+									},
+									{
+										"id": "hxzhnens",
+										"text": "Depth First Search",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "jboimuua",
+						"text": "Advanced Data Structures",
+						"notes": "",
+						"children": [
+							{
+								"id": "nyncymip",
+								"text": "Heaps",
+								"notes": ""
+							},
+							{
+								"id": "sniwaufi",
+								"text": "Trie (prefix tree)",
+								"notes": ""
+							},
+							{
+								"id": "wbinhgey",
+								"text": "Disjoint set (union find)",
+								"notes": ""
+							},
+							{
+								"id": "sbonofov",
+								"text": "segment tree",
+								"notes": ""
+							},
+							{
+								"id": "wapummhe",
+								"text": "Tenwick tree",
+								"notes": ""
+							},
+							{
+								"id": "ehcwcujx",
+								"text": "Suffix arrays and suffix trees",
+								"notes": ""
+							},
+							{
+								"id": "piadhobm",
+								"text": "Graph Data Structures",
+								"notes": "",
+								"children": [
+									{
+										"id": "joahdwdw",
+										"text": "Directed graph",
+										"notes": ""
+									},
+									{
+										"id": "ppraywzf",
+										"text": "Undirected graph",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "lndtcllj",
+								"text": "Shortest Path Algorithms",
+								"notes": "",
+								"children": [
+									{
+										"id": "efvulfaj",
+										"text": "Diklstra's algorithm",
+										"notes": ""
+									},
+									{
+										"id": "drhlypcg",
+										"text": "Bellman-ford",
+										"notes": ""
+									},
+									{
+										"id": "xzslnbyp",
+										"text": "floyd-warshall",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "csygdhum",
+								"text": "Minimum spanning tree",
+								"notes": "",
+								"children": [
+									{
+										"id": "ymlrwgug",
+										"text": "Prim's algorithm",
+										"notes": ""
+									},
+									{
+										"id": "netdhtoj",
+										"text": "Kruskal's algorithm",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "qcgnslna",
+						"text": "Complex Data Structures",
+						"notes": "",
+						"children": [
+							{
+								"id": "ibdbawfy",
+								"text": "Indexing",
+								"notes": "",
+								"children": [
+									{
+										"id": "henietfo",
+										"text": "Linear indexing",
+										"notes": ""
+									},
+									{
+										"id": "komizcsf",
+										"text": "Tree-based indexing",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "uatcucyw",
+								"text": "B / B+ Trees",
+								"notes": ""
+							},
+							{
+								"id": "sgwhmmap",
+								"text": "Skip list",
+								"notes": ""
+							},
+							{
+								"id": "gzsaonyg",
+								"text": "ISAM",
+								"notes": ""
+							},
+							{
+								"id": "lahinuxa",
+								"text": "2 - 3 Trees",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "spntrstv",
+						"text": "Practice Problems",
+						"notes": "",
+						"children": [
+							{
+								"id": "fgdfrcbi",
+								"text": "Practice Sheets",
+								"notes": "",
+								"children": [
+									{
+										"id": "lvrdttma",
+										"text": "DSA Sheet by Love Babbar",
+										"notes": ""
+									},
+									{
+										"id": "xhetpyvm",
+										"text": "Striver's SDE Sheet",
+										"notes": ""
+									},
+									{
+										"id": "wzwfpwdd",
+										"text": "Apna College DSA Sheet",
+										"notes": ""
+									},
+									{
+										"id": "vkzysejt",
+										"text": "NeetCode150",
+										"notes": ""
+									},
+									{
+										"id": "bqgforme",
+										"text": "DSA Sheet by Arsh 60 days plan",
+										"notes": ""
+									},
+									{
+										"id": "vfhbaxdc",
+										"text": "AlgoPrep's 151 Problems Sheet",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "rnajztqh",
+								"text": "Platforms",
+								"notes": "",
+								"children": [
+									{
+										"id": "wauuaprl",
+										"text": "Leetcode",
+										"notes": ""
+									},
+									{
+										"id": "ejuxfxqn",
+										"text": "Codeforces",
+										"notes": ""
+									},
+									{
+										"id": "kxywcfyc",
+										"text": "Codechef",
+										"notes": ""
+									},
+									{
+										"id": "mewesrwz",
+										"text": "InterviewBit",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "rmgjjgwt",
+						"text": "System Design",
+						"notes": "",
+						"children": [
+							{
+								"id": "ckxydays",
+								"text": "soon learning",
+								"notes": ""
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "ousldadz",
+				"text": "Quantam Computing",
+				"notes": "",
+				"side": "right",
+				"children": [
+					{
+						"id": "gubyuenc",
+						"text": "<span style=\"font-size: 8px;\">Book: quantum-computation-and-quantum-information-nielsen-chuang</span>",
+						"notes": ""
+					}
+				]
+			},
+			{
+				"id": "tsnfgzzv",
+				"text": "Robotics",
+				"notes": "",
+				"side": "left",
+				"children": [
+					{
+						"id": "knnlkses",
+						"text": "Foundations",
+						"notes": "",
+						"children": [
+							{
+								"id": "gwllwoxy",
+								"text": "History &amp; Evolution",
+								"notes": "",
+								"children": [
+									{
+										"id": "rphyeidk",
+										"text": "Key milstones",
+										"notes": ""
+									},
+									{
+										"id": "rwplntyz",
+										"text": "Historical evolution",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "whhxettk",
+								"text": "Types of Robots",
+								"notes": "",
+								"children": [
+									{
+										"id": "vhznjkhf",
+										"text": "Industrial",
+										"notes": ""
+									},
+									{
+										"id": "mvmniemu",
+										"text": "Mobile",
+										"notes": ""
+									},
+									{
+										"id": "yzdyqywg",
+										"text": "Humanoids",
+										"notes": ""
+									},
+									{
+										"id": "ucyrbzle",
+										"text": "Drones",
+										"notes": ""
+									},
+									{
+										"id": "ziabwnyf",
+										"text": "Underwater",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "hancxble",
+								"text": "Applications",
+								"notes": "",
+								"children": [
+									{
+										"id": "rzqpragn",
+										"text": "Manufacturing",
+										"notes": ""
+									},
+									{
+										"id": "pydyeahl",
+										"text": "Healthcare",
+										"notes": ""
+									},
+									{
+										"id": "toxhvbed",
+										"text": "Agriculture",
+										"notes": ""
+									},
+									{
+										"id": "zjorxrzo",
+										"text": "Space exploration",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "uyofzuhw",
+						"text": "Math Foundations",
+						"notes": "",
+						"children": [
+							{
+								"id": "cczpisho",
+								"text": "Linear Algebra",
+								"notes": "",
+								"children": [
+									{
+										"id": "ufadypid",
+										"text": "<div><span style=\"font-size: 15px;\">Matrices, Vectors</span></div>",
+										"notes": ""
+									},
+									{
+										"id": "rbkculep",
+										"text": "<span style=\"font-size: 15px;\">Transformation Matrices</span>",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "zocmxufz",
+								"text": "Calculus",
+								"notes": "",
+								"children": [
+									{
+										"id": "rnqomhnj",
+										"text": "Differentiation",
+										"notes": ""
+									},
+									{
+										"id": "bshepzdd",
+										"text": "Integration",
+										"notes": ""
+									},
+									{
+										"id": "llgvclxv",
+										"text": "Multivariable",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "uxxjrjca",
+								"text": "Probability &amp; Statistics",
+								"notes": "",
+								"children": [
+									{
+										"id": "msvjonon",
+										"text": "Baye's theorem",
+										"notes": ""
+									},
+									{
+										"id": "paimvbia",
+										"text": "Gaussian distribution",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "kqxymxij",
+								"text": "Optimization",
+								"notes": "",
+								"children": [
+									{
+										"id": "ogcofxmj",
+										"text": "Gradient descent",
+										"notes": ""
+									},
+									{
+										"id": "kwpohcgf",
+										"text": "convex",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "regtlcgj",
+						"text": "Core Concepts",
+						"notes": "",
+						"children": [
+							{
+								"id": "tmyshqjc",
+								"text": "Kinematics",
+								"notes": "",
+								"children": [
+									{
+										"id": "gxmrlsfr",
+										"text": "Forward",
+										"notes": ""
+									},
+									{
+										"id": "gxqhiqju",
+										"text": "Inverse",
+										"notes": ""
+									},
+									{
+										"id": "hlaogpyc",
+										"text": "Jacobian matrix",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "fzwdemcm",
+								"text": "Dynamics",
+								"notes": "",
+								"children": [
+									{
+										"id": "aocqsqyn",
+										"text": "newton-euler mechanics",
+										"notes": ""
+									},
+									{
+										"id": "wldyqkew",
+										"text": "lagarangian mechanics",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "uwbnswdj",
+								"text": "Control Systems",
+								"notes": "",
+								"children": [
+									{
+										"id": "rbyopcrd",
+										"text": "Feedback",
+										"notes": ""
+									},
+									{
+										"id": "mgxhujnn",
+										"text": "PID",
+										"notes": ""
+									},
+									{
+										"id": "vykhdllr",
+										"text": "Adaptive",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "nmsxwwzt",
+						"text": "Sensors &amp; Actuators",
+						"notes": "",
+						"children": [
+							{
+								"id": "nnsmmfbm",
+								"text": "Sensors",
+								"notes": "",
+								"children": [
+									{
+										"id": "djgbcwkp",
+										"text": "<div><span style=\"font-size: 12px;\">Cameras (RGB, Depth, Thermal)</span></div>",
+										"notes": ""
+									},
+									{
+										"id": "yiwtvssc",
+										"text": "<div><span style=\"font-size: 12px;\">LIDAR, RADAR</span></div>",
+										"notes": ""
+									},
+									{
+										"id": "mvkqtmqg",
+										"text": "<div><span style=\"font-size: 12px;\">Proximity</span></div>",
+										"notes": ""
+									},
+									{
+										"id": "nyrzmqha",
+										"text": "IMUs, Force",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "ptpxkfcs",
+								"text": "Actuators",
+								"notes": "",
+								"children": [
+									{
+										"id": "kvekfyzv",
+										"text": "<span style=\"font-size: 12px;\">DC Motors, Servo Motors</span>",
+										"notes": ""
+									},
+									{
+										"id": "fqjnjnhz",
+										"text": "<div><span style=\"font-size: 12px;\">Hydraulic Systems</span></div>",
+										"notes": ""
+									},
+									{
+										"id": "hpazkaid",
+										"text": "<div><span style=\"font-size: 12px;\">Pneumatic Systems</span></div>",
+										"notes": ""
+									},
+									{
+										"id": "xvdsdroq",
+										"text": "<div><span style=\"font-size: 12px;\">Soft</span></div>",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "ykuvugyv",
+						"text": "<span style=\"font-size: 12px;\">Perception &amp; Computer Vision</span>",
+						"notes": "",
+						"children": [
+							{
+								"id": "hjusovze",
+								"text": "Image Processing",
+								"notes": "",
+								"children": [
+									{
+										"id": "emhsesrw",
+										"text": "Filters",
+										"notes": ""
+									},
+									{
+										"id": "wykhpklb",
+										"text": "<span style=\"font-size: 12px;\">Edge Detection</span>",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "veodvtms",
+								"text": "<span style=\"font-size: 12px;\">Computer Vision</span>",
+								"notes": "",
+								"children": [
+									{
+										"id": "jrrmkwzx",
+										"text": "<span style=\"font-size: 12px;\">Feature Extraction (SIFT, ORB)</span>",
+										"notes": ""
+									},
+									{
+										"id": "wntfqsbj",
+										"text": "<span style=\"font-size: 12px;\">Object Detection (YOLO, SSD)</span>",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "wwnfqojm",
+								"text": "<span style=\"font-size: 12px;\">Sensor Fusion</span>",
+								"notes": "",
+								"children": [
+									{
+										"id": "czdpzalt",
+										"text": "<span style=\"font-size: 12px;\">Kalman Filter</span>",
+										"notes": ""
+									},
+									{
+										"id": "urfbbzew",
+										"text": "<span style=\"font-size: 12px;\">Particle Filter</span>",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "gwhexkpl",
+						"text": "<span style=\"font-size: 12px;\">Motion Planning &amp; Localization</span>",
+						"notes": "",
+						"children": [
+							{
+								"id": "vdlphdyx",
+								"text": "<span style=\"font-size: 12px;\">Path Planning</span>",
+								"notes": "",
+								"children": [
+									{
+										"id": "padihskb",
+										"text": "<span style=\"font-size: 12px;\">A*, Dijkstra</span>",
+										"notes": ""
+									},
+									{
+										"id": "xlkogslo",
+										"text": "<span style=\"font-size: 12px;\">RRT, PRM</span>",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "cewrlcje",
+								"text": "Localization",
+								"notes": "",
+								"children": [
+									{
+										"id": "lpbukodd",
+										"text": "SLAM",
+										"notes": ""
+									},
+									{
+										"id": "nswmxwge",
+										"text": "Visual SLAM",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "mjpymban",
+								"text": "Trajectory Optimization",
+								"notes": "",
+								"children": [
+									{
+										"id": "nqdsrmwx",
+										"text": "<span style=\"font-size: 12px;\">Kinematic Constraints</span>",
+										"notes": ""
+									},
+									{
+										"id": "rcbmfhwe",
+										"text": "Dynamic Constraints",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "vwqkxldn",
+						"text": "Artificial Intelligence",
+						"notes": "",
+						"children": [
+							{
+								"id": "wstekorp",
+								"text": "Machine Learning",
+								"notes": "",
+								"children": [
+									{
+										"id": "akxeovdj",
+										"text": "Supervised &amp; Unsupervised",
+										"notes": ""
+									},
+									{
+										"id": "gqbfipjg",
+										"text": "Reinforcement",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "ltdjkoyy",
+								"text": "Deep Learning",
+								"notes": "",
+								"children": [
+									{
+										"id": "erapiuuh",
+										"text": "Neural networks",
+										"notes": ""
+									},
+									{
+										"id": "sdzotmpt",
+										"text": "CNNs for vision",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "teabimeg",
+								"text": "NLP",
+								"notes": "",
+								"children": [
+									{
+										"id": "iqmyiwrw",
+										"text": "Speech Recognition",
+										"notes": ""
+									},
+									{
+										"id": "pwygyxnk",
+										"text": "Human-Robot Interaction",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "nafowadq",
+						"text": "Programming &amp; Simulation",
+						"notes": "",
+						"children": [
+							{
+								"id": "xayjxlks",
+								"text": "Languages",
+								"notes": "",
+								"children": [
+									{
+										"id": "oxlabbpb",
+										"text": "Python, C++, MATLAB",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "xlzpzvhr",
+								"text": "Robot Operating System",
+								"notes": "",
+								"children": [
+									{
+										"id": "mpkwfbxp",
+										"text": "Nodes, Topics, Services",
+										"notes": ""
+									},
+									{
+										"id": "wcrltefb",
+										"text": "Gazebo, RViz",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "zthyjdkp",
+								"text": "Embedded Systems",
+								"notes": "",
+								"children": [
+									{
+										"id": "skxnehyx",
+										"text": "Arduino",
+										"notes": ""
+									},
+									{
+										"id": "tutmebth",
+										"text": "RTOS",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "zbjsqite",
+						"text": "<span style=\"font-size: 14px;\">&nbsp;Swarm Robotics</span>",
+						"notes": "",
+						"children": [
+							{
+								"id": "mbsjqsub",
+								"text": "<span style=\"font-size: 14px;\">Swarm Intelligence</span>",
+								"notes": ""
+							},
+							{
+								"id": "oltyohjc",
+								"text": "<span style=\"font-size: 14px;\">Multi-Agent Systems</span>",
+								"notes": ""
+							},
+							{
+								"id": "yafyteso",
+								"text": "<span style=\"font-size: 14px;\">Distributed Coordination</span>",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "wxqizzxx",
+						"text": "<span style=\"font-size: 8px;\">Advanced Robotics</span>",
+						"notes": "",
+						"children": [
+							{
+								"id": "sjfihijq",
+								"text": "<span style=\"font-size: 8px;\">Soft Robotics</span>",
+								"notes": "",
+								"children": [
+									{
+										"id": "tkdrqrep",
+										"text": "<span style=\"font-size: 8px;\">Bio-Inspired Actuators</span>",
+										"notes": ""
+									},
+									{
+										"id": "yltueivo",
+										"text": "<span style=\"font-size: 8px;\">Shape Memory Alloys</span>",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "hmsmmfxx",
+								"text": "<span style=\"font-size: 8px;\">Quantum Robotics</span>",
+								"notes": "",
+								"children": [
+									{
+										"id": "pdhyldrz",
+										"text": "<span style=\"font-size: 8px;\">Quantum Sensors</span>",
+										"notes": ""
+									},
+									{
+										"id": "vyfjdpsa",
+										"text": "<span style=\"font-size: 8px;\">Quantum Computing</span>",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "ijubpwqx",
+								"text": "<span style=\"font-size: 8px;\">Cloud Robotics</span>",
+								"notes": "",
+								"children": [
+									{
+										"id": "uukofiui",
+										"text": "<span style=\"font-size: 8px;\">IoT Integration</span>",
+										"notes": ""
+									},
+									{
+										"id": "hufsqtks",
+										"text": "<span style=\"font-size: 8px;\">Edge Computing</span>",
+										"notes": ""
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "lokviavl",
+						"text": "<span style=\"font-size: 8px;\">Human-Robot Interaction</span>",
+						"notes": "",
+						"children": [
+							{
+								"id": "sgrdspul",
+								"text": "<span style=\"font-size: 8px;\">Gesture Recognition</span>",
+								"notes": ""
+							},
+							{
+								"id": "afmfwbui",
+								"text": "<span style=\"font-size: 8px;\">Haptic Feedback</span>",
+								"notes": ""
+							},
+							{
+								"id": "pyvrwvtw",
+								"text": "<span style=\"font-size: 8px;\">Social Robots</span>",
+								"notes": ""
+							}
+						]
+					},
+					{
+						"id": "loxntxxu",
+						"text": "<span style=\"font-size: 8px;\">Research &amp; Development</span>",
+						"notes": "",
+						"children": [
+							{
+								"id": "rhcstpoj",
+								"text": "<span style=\"font-size: 8px;\">Ethics in Robotics</span>",
+								"notes": ""
+							},
+							{
+								"id": "ulvypmko",
+								"text": "<span style=\"font-size: 8px;\">Experimental Methodologies</span>",
+								"notes": "",
+								"children": [
+									{
+										"id": "zhenfupv",
+										"text": "<span style=\"font-size: 8px;\">Simulation</span>",
+										"notes": ""
+									},
+									{
+										"id": "iolefepi",
+										"text": "<span style=\"font-size: 8px;\">Field Testing</span>",
+										"notes": ""
+									}
+								]
+							},
+							{
+								"id": "ugfrrvrb",
+								"text": "<span style=\"font-size: 8px;\">Emerging Trends</span>",
+								"notes": "",
+								"children": [
+									{
+										"id": "dwydveyi",
+										"text": "<span style=\"font-size: 8px;\">Autonomous Vehicles</span>",
+										"notes": ""
+									},
+									{
+										"id": "xcnzqsig",
+										"text": "<span style=\"font-size: 8px;\">Space Robotics</span>",
+										"notes": ""
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
