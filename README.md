@@ -1,1 +1,7 @@
-# Blog
+This repository functions as a central hub for various static assets used across my web projects. It includes blog files, fonts served via CDN, hosted images, and other essential resources that support the structure and presentation of my websites. Rather than keeping these elements scattered across multiple platforms, I’ve consolidated them here for convenience and consistency.
+
+One of the primary uses of this repository is to host custom fonts and make them accessible via a content delivery network (CDN). This allows for fast, reliable font loading across different sites without relying on third-party services. Hosting fonts in this way also gives me more control over versioning, performance, and fallback strategies.
+
+In addition to fonts, the repository also contains images used throughout my websites and blog posts. These range from illustrations and diagrams to banners and embedded media. Hosting them here helps maintain a clean reference structure, avoid broken links, and ensure that content remains accessible over time.
+
+Beyond fonts and images, this repository includes various supporting files such as JSON data, scripts, and style sheets. It acts as a lightweight asset server that feeds content into multiple frontends through direct linking or API access. Overall, it serves as an efficient, flexible solution for managing and delivering static resources across my digital ecosystem.
